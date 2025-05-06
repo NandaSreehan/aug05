@@ -4,7 +4,6 @@ charset-normalizer==3.4.2
 cm===0.1a2
 Django==4.2.20
 django-debug-toolbar==4.4.6
-django-restframework==3.15.2
 gunicorn==23.0.0
 idna==3.7
 packaging==24.1
