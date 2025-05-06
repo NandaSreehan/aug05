@@ -2,8 +2,8 @@
 certifi==2025.4.26
 charset-normalizer==3.4.2
 cm===0.1a2
-Django==5.2
-django-debug-toolbar==5.2.0
+Django=4.2.16
+django-ebug-toolbar==5.2.0
 django-restframework==3.14.0
 gunicorn==21.2.0
 idna==3.10
